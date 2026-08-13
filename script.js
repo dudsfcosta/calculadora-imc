@@ -3,7 +3,7 @@ function calcularIMC() {
     // Entrada
     const peso = document.getElementById("peso").value;
     const altura = document.getElementById("altura").value;
-    let txt = "";
+    let txt;
 
     // Calculadora IMC
     const imc = peso/(altura*altura);
