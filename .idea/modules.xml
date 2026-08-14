@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ebac-primeiros-projetos.iml" filepath="$PROJECT_DIR$/.idea/ebac-primeiros-projetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/calculadora-imc.iml" filepath="$PROJECT_DIR$/.idea/calculadora-imc.iml" />
     </modules>
   </component>
 </project>
